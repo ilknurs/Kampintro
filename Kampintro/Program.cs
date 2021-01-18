@@ -39,7 +39,7 @@ namespace Kampintro
             }
             
 
-            Console.WriteLine("Kategori");
+            Console.WriteLine("Kategori"); 
             Console.WriteLine(kategoriEtiketi);
 
 
