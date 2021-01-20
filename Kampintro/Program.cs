@@ -38,7 +38,7 @@ namespace Kampintro
                 Console.WriteLine("Giriş yap butonu");
             }
             
-
+             
             Console.WriteLine("Kategori"); 
             Console.WriteLine(kategoriEtiketi);
 
